@@ -18,14 +18,14 @@ La tutela dei dati è una priorità. Il bot opera secondo il principio del privi
 * **Conformità Google:** L'uso delle API di Google rispetta rigorosamente la *Google API Services User Data Policy* (Limited Use).
 * **Revoca:** L'utente può disconnettersi in qualsiasi momento dal bot o dalle impostazioni del proprio account Google, comportando l'eliminazione dei token dal database.
 
-👉 [Leggi l'Informativa sulla Privacy completa](privacy.html)
+👉 [Leggi l'Informativa sulla Privacy completa](https://fabiosavi.github.io/upcs/privacy.html)
 
 ## ⚖️ Sintesi dei Termini di Servizio
 * **Natura del progetto:** Questo è un progetto indipendente, gratuito e open-source. Non è affiliato, sponsorizzato o supportato dall'Università del Piemonte Orientale (UPO), da Google LLC o da Telegram.
 * **Limitazione di responsabilità:** Il servizio è fornito "così com'è" (as is). Sebbene sia progettato per essere preciso, l'autore non è responsabile per eventuali inesattezze negli orari, lezioni mancate o temporanei malfunzionamenti derivanti da aggiornamenti delle API. Si consiglia sempre di verificare gli orari sui canali ufficiali.
 * **Uso corretto:** Il bot è destinato al solo uso personale. Abusi o tentativi di manomissione comporteranno il blocco dal servizio.
 
-👉 [Leggi i Termini di Servizio completi](terms.html)
+👉 [Leggi i Termini di Servizio completi](https://fabiosavi.github.io/upcs/terms.html)
 
 ## 🛠️ Stack Tecnologico
 * Python
